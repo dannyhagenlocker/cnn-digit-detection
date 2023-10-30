@@ -1,3 +1,6 @@
+# Credit to FluxML for the example project
+# https://github.com/FluxML/model-zoo/blob/master/vision/conv_mnist/conv_mnist.jl
+
 # Classification of MNIST dataset using a convolutional network,
 # which is a variant of the original LeNet from 1998.
 
